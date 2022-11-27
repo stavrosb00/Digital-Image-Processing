@@ -1,0 +1,16 @@
+
+ Τα υπολογίζω όλα με τη μια (και το R και το M για κάθε στοιχείο)
+
+https://www.mathworks.com/matlabcentral/answers/34102-how-to-rotate-an-image-using-interpolation
+https://www.mathworks.com/help/vision/ug/find-image-rotation-and-scale-using-automated-feature-matching.html
+https://www.mathworks.com/help/vision/ref/estimategeometrictransform.html
+https://www.mathworks.com/help/vision/ug/feature-based-panoramic-image-stitching.html
+https://www.mathworks.com/help/vision/ref/matchfeatures.html
+https://docs.opencv.org/4.x/dd/d1a/group__imgproc__feature.html#ga354e0d7c86d0d9da75de9b9701a9a87e
+https://files.ifi.uzh.ch/rpg/teaching/2016/06_feature_detection_2.pdf
+https://www.youtube.com/watch?v=8aNOzgIbaeA
+https://medium.com/data-breach/introduction-to-harris-corner-detector-32a88850b3f6
+https://muthu.co/harris-corner-detector-implementation-in-python/#:~:text=The%20Harris%20corner%20detection%20algorithm,in%20more%20than%20one%20direction
+http://www.cs.toronto.edu/~fidler/slides/2019/CSC420/lecture8.pdf
+https://www.mathworks.com/matlabcentral/fileexchange/30809-ransac-algorithm-with-example-of-finding-homography
+
